@@ -1,0 +1,6 @@
+print ("Type Categories",Merged_df2.Type.sort_values().value_counts(),"","----------------------------------------------------------","Gender Categories",Merged_df2.Gender.sort_values().value_counts(),"","----------------------------------------------------------","Species_Code Categories",Merged_df2.Species_Code.sort_values().value_counts(),"","----------------------------------------------------------","Species Categories",Merged_df2.Species.sort_values().value_counts(),"","----------------------------------------------------------","Region Categories",Merged_df2.Region.sort_values().value_counts(),"","----------------------------------------------------------","Observer Categories",Merged_df2.Observer.sort_values().value_counts(),"","----------------------------------------------------------","Month Categories",Merged_df2.Month.sort_values().value_counts(), sep="\n")
+
+
+
+
+
